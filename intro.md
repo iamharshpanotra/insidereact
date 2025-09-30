@@ -34,3 +34,9 @@
         1.  no seo, browser render of JS, no routing
     2.  Framework
         1.  NextJS, Gatsby, Remix
+13. react 
+    1.  react-dom - to work on react on web 
+    2.  react-native - to work on react on mobile
+14. npx - node package executer
+15. How to create project
+    1.  create-react-app app_name
